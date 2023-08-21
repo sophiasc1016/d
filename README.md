@@ -5,7 +5,7 @@
 </head>
 
 <body> 
-<img src="S__51216397.jpg" width="900" height="250" align="baseline">
+<img src="S__51216397.jpg">
 <br>
 <blockquote>
   <p>
@@ -15,7 +15,7 @@
   
   <br />
   
-  <img src="S__51216401.jpg" width="800" height="706">
+  <img src="S__51216401.jpg">
   <br>
   <pre>
   <h6>
@@ -24,7 +24,7 @@
   消息人士透露明日女方也將前往機場接機。<h6>
   <pre>
   <br />
-  <img src="S__51216392.jpg" width="709" height="1026" >
+  <img src="S__51216392.jpg" >
   <br>
   <h5>女方前往韓國之前正好是ZB1前往洛杉磯前，女方開心的發了文說明自己也在機場。<h5>
   <br />
